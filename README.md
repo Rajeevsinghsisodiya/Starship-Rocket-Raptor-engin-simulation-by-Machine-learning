@@ -1,0 +1,2 @@
+# Starship-Rocket-Raptor-engin-simulation-by-Machine-learning
+Simulating a Starship rocket, such as SpaceX's Starship, is a more complex task compared to a basic rocket simulation due to its larger size, variable thrust, and the need to consider different stages of flight. In this python project notebook, I have tried to  provide an overview of how you can create a simplified simulation of a Starship rocket.
